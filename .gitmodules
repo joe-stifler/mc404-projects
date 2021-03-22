@@ -1,0 +1,9 @@
+[submodule "TP1-MC404"]
+	path = TP1-MC404
+	url = https://github.com/joe-stifler/TP1-MC404
+[submodule "TP2-MC404"]
+	path = TP2-MC404
+	url = https://github.com/joe-stifler/TP2-MC404
+[submodule "LB-MC404"]
+	path = LB-MC404
+	url = https://github.com/joe-stifler/LB-MC404
