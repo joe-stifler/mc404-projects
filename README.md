@@ -17,7 +17,7 @@ Projects of the discipline Basic Organization of Computers and Assembly Language
 **Projects:**
 
 * Project 1 (T1): Assembler for the IAS computer architecture. Grade: 9.9 / 10
-* Project 2 (T2): Uoli software system. Grade: 10 / 10
+* Project 2 (T2): Uoli software system. Grade: 10 / 10 (This 2nd project was developed together with [@gperrotta](https://github.com/gperrotta)).
 
 **Theoretical Tests:**
 
