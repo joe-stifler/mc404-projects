@@ -1,4 +1,3 @@
-# mc404-projects
 Projetos da disciplina Organização Básica de Computadores e Linguagem Assembly (MC404) ministrada pelo professor Edson Borin
 
 **Atividades de laboratório:**
